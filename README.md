@@ -1,1 +1,1 @@
-# .github
+# RAPID Platform
