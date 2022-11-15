@@ -8,7 +8,6 @@
 </h1>
 
 <p align="center" style="display: flex;gap:5px;align-items:center;justify-content:center;">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
     <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white">
 </p>
