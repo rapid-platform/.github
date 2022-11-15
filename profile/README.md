@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://au.linkedin.com/company/simpli-org"><img style="width:50%;" src="Rapid Platform_RGB_Corporate ID_Positive.png" alt="Simpli" width="200"></a>
+  <a href="https://au.linkedin.com/company/simpli-org"><img style="width:50%;" src="https://github.com/rapid-platform/.github/raw/main/profile/Rapid%20Platform_RGB_Corporate%20ID_Positive.png" alt="Simpli" width="200"></a>
   <br>
   <br>
   A unified tool for digital transformation
