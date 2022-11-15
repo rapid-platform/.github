@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://au.linkedin.com/company/simpli-org"><img style="width:50%;" src="https://rapidplatform.com.au/wp-content/uploads/2020/01/rapid_logo_landscape.svg" alt="Simpli" width="200"></a>
+  <a href="https://au.linkedin.com/company/simpli-org"><img style="width:50%;" src="Rapid Platform_RGB_Corporate ID_Positive.png" alt="Simpli" width="200"></a>
   <br>
   <br>
   A unified tool for digital transformation
